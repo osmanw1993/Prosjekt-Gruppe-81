@@ -10,7 +10,7 @@ def tell_elemnter_større_lik(list, verdi):
             # print(tellinga) 
     return tellinga
 
-    
+    # test
 # Ex:
 oppgitt_verdi= int(input("Skriv inn en verdi: "))
 temperaturer = [-5, 2, 6, 13, 9, 22, 28, 19, 24, 12, 5, 1, -3, -8, 2, 8, 15, 18, 21, 26, 21, 31, 15, 4, 1, -2]
