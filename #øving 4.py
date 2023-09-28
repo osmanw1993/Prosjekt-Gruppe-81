@@ -1,1 +1,1 @@
-#øving 4
+i thought i did something, but i didnt
